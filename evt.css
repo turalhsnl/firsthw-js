@@ -1,0 +1,147 @@
+body{
+    background-color: rgb(224, 220, 220);
+    
+}
+a:link{
+    text-decoration: none;
+}
+.up{
+    padding: 0px;
+    justify-content: space-between;
+    display: flex;
+    background-color: white;
+}
+.yn{
+   
+    margin-left: 30px;
+    width: 20%;
+    background-color: rgb(18, 172, 172);
+    color: white;
+    padding: 20px 30px;
+    text-align: center;
+}
+
+.list{
+    display: flex;
+    justify-content: flex-end;
+    color: gray;
+    padding: 0px 50px;
+    gap: 30px;
+    align-items: center;
+    text-decoration: none;
+
+    
+    
+}
+.down{
+    margin-top: 30px;
+    padding: 10px 30px;
+    display: flex;
+    height: 400px;
+    justify-content: space-between;
+    height: 70vh;
+    
+}
+.pict{
+    padding: 20px;
+    background-color: white;
+}
+.altyazi{
+    padding-top: 150px;
+}
+img{
+    height:200px;
+    width: 200px;
+    float: left;
+    padding-right: 10px;
+    
+}
+.right{
+    height: 170px;
+    margin-left: 30px;
+    padding: 10px;
+    background-color: white;
+    
+}
+.right>h3{
+    font-size: 23px;
+    padding-top: 20px;
+    text-align: center;
+    color: rgb(12, 198, 198);
+}
+.right>.rb{
+    padding-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+}
+.rb img{
+    width:50px;
+    height: 50px;
+}
+.line{
+    background-color: aqua;
+    height: 10px;
+    
+    
+}
+footer {
+    background-color: rgb(0, 0, 0);
+    height: 111px;
+    width: 1540px;
+    bottom: 0;
+   position: relative;
+    padding: 0px;
+}
+    
+
+footer p{
+    color: white;
+    text-align: center;
+}
+
+.alt{
+    height: 111px;
+    width: 1520px;
+    bottom: 0;
+    
+    
+}
+.ortadiv{
+    background-color: white;
+    padding: 20px 200px 20px 20px;
+}
+.portimg{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 30px 30px;
+    height: 300px;
+    
+
+}
+.portimg>img{
+    display: flex;
+    justify-content: space-around;
+    height: 100px;
+    width: 100px;
+
+    
+}
+.ortadiv .img2{
+    align-self: flex-end;
+}
+
+.all{
+    display: flex;
+    justify-content: space-between;
+    margin: 30px; 
+    
+    
+}
+.cont{
+    padding: 40px;
+    padding-right: 400px;
+    background-color: white;
+}

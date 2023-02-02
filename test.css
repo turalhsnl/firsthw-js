@@ -1,0 +1,45 @@
+.main{
+    margin: 0 auto;
+    justify-content: center;
+    padding: 30px 80px;
+    height: 500px;
+    
+}
+.firstdiv{
+    display: flex;
+    border: 1px solid black;
+    position: relative;
+    width: 700px;
+    height: 200px;
+    flex-flow: column nowrap;
+    text-align: center;
+    justify-content: end;
+    
+    
+    
+    
+}
+.seconddiv{
+    display: flex;
+    position: relative;
+    background-color: gray;
+    border: 1px solid rgb(4, 0, 0);
+    align-self:flex-end;
+   
+    
+    
+    
+
+    
+    
+}
+.thirddiv{
+    left: 0px;
+    top: 0px;
+    background-color: rgb(61, 4, 34);
+    padding: 20px;
+    position: fixed;
+    
+    
+
+}
